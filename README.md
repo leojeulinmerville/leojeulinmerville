@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any ML project**
 
-- 🤝 I’m looking for help with **web dev in general because I never learnt JS and CSS**
+- 🤝 I’m looking for help with **web dev in general, JS and CSS**
 
 - 💬 Ask me about **AI Law regulations in Europe & US, ML and NLP**
 
